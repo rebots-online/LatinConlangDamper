@@ -1,0 +1,13 @@
+{
+  "name": "latin-conlang-damper",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Experimental research: damping hypothesis for round-trip translation through Ecclesiastical Latin's constrained liturgical register",
+  "scripts": {
+    "experiment": "node scripts/stability-experiment.mjs",
+    "experiment:tier2": "node scripts/stability-experiment.mjs --tier2"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
